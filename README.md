@@ -1,2 +1,2 @@
 # Plinko
-Plinko
+Plinko Gamde
